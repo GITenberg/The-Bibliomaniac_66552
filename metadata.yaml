@@ -1,0 +1,58 @@
+_repo: The-Bibliomaniac_66552
+_version: 0.0.1
+alternative_title: Le bibliomane. English
+contributor:
+  author_of_introduction:
+    agent_name: Vallery-Radot, René
+    alias: Vallery-Radot, Rene
+    birthdate: 1853
+    deathdate: 1933
+    gutenberg_agent_id: '44351'
+    url: http://www.gutenberg.org/2009/agents/44351
+    wikipedia: https://fr.wikipedia.org/wiki/Ren%C3%A9_Vallery-Radot
+  illustrator:
+    agent_name: Leloir, Maurice
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '48651'
+    url: http://www.gutenberg.org/2009/agents/48651
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maurice_Leloir
+    - https://en.wikipedia.org/wiki/Maurice_Leloir
+  translator:
+    agent_name: Wright, Mabel Osgood
+    aliases:
+    - Barbara
+    - Wright, James Osborne, Mrs.
+    - Wright, Mrs. James Osborne
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '4028'
+    url: http://www.gutenberg.org/2009/agents/4028
+    wikipedia: https://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+creator:
+  author:
+    agent_name: Nodier, Charles
+    alias: Nodier, Jean Charles Emmanuel
+    birthdate: 1780
+    deathdate: 1844
+    gutenberg_agent_id: '7795'
+    url: http://www.gutenberg.org/2009/agents/7795
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Charles_Nodier
+    - https://en.wikipedia.org/wiki/Charles_Nodier
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66552'
+  lccn: 06044090
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Bibliomania'
+- GITenberg
+title: The Bibliomaniac
+url: http://www.gutenberg.org/ebooks/66552
