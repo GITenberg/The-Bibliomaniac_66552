@@ -30,6 +30,9 @@ contributor:
     gutenberg_agent_id: '4028'
     url: http://www.gutenberg.org/2009/agents/4028
     wikipedia: https://en.wikipedia.org/wiki/Mabel_Osgood_Wright
+covers:
+- cover_type: archival
+  image_path: 66552-h/images/cover.jpg
 creator:
   author:
     agent_name: Nodier, Charles
@@ -42,6 +45,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Charles_Nodier
     - https://en.wikipedia.org/wiki/Charles_Nodier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66552#The-Bibliomaniac
 gutenberg_issued: '2021-10-17'
 identifiers:
   gutenberg: '66552'
